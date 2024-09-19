@@ -28,7 +28,7 @@
         <table class="table table-bordered table-striped">
             <thead class="table-dark">
                 <tr>
-                    <th scope="col">#</th>
+                    <th scope="col">ID</th>
                     <th scope="col">Gift Name</th>
                     <th scope="col">Expected Value</th>
                     <th scope="col">Money Spent</th>
